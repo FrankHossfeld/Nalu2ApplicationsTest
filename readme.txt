@@ -1,12 +1,2 @@
-To run the project, use the following command:
-
-
-Change directory to your generated project and issue the following commands:
-
-
-    * mvn gwt:devmode
-
-
-To start the application, call:
-
--> http://localhost:8080
+Project example trying to use 2 nalu applications over the same codebase.
+Each package will be deploy on distinct web directories
